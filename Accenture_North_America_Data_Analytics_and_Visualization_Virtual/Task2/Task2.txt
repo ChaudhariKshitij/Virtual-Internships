@@ -1,0 +1,10 @@
+2.Identify which datasets will be required to answer the client’s business question
+Clean the datasets and merge them to prepare the data for analysis
+Determine the answer to the client’s business question
+
+
+	Q1.Which three data sets will you need to complete your analysis?
+		Reaction, Content, Reaction Types
+		Reaction, Content, Profile
+		Reaction, Reaction Type, User
+			Ans:-Reaction, Content, Reaction Types

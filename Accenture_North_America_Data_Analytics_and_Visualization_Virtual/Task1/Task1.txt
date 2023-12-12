@@ -1,0 +1,16 @@
+1.Meet your Accenture team, including the industry, IPO and data experts
+Read and analyze a client project brief to understand the client and business problem, identify the requirements that need to be delivered, and identify which tasks you need to focus on as a data analyst
+
+	Q1.Which statement best describes the business problem that Accenture is tasked to address for this project?
+		The clients financial stability has rapidly declined due to COVID-19 and they need to find new market opportunities to increase revenue.
+		The client is looking to raise a significant amount of money through private investment and needs support with this.
+		The client has reached a massive scale within recent years and does not have the resources internally to handle it.
+		The client has reached a massive scale within recent years and is having big issues retaining and hiring the best talent. The client needs help to find out why this problem has arisen.
+			Ans:-The client has reached a massive scale within recent years and does not have the resources internally to handle it.
+
+	Q2.Which task out of these options is the most relevant to you as a data analyst, and therefore which one will you work on?
+		On-site audit of their data-center
+		Preparation of best practice document for IPO
+		Analysis of sample data sets with visualizations to understand the popularity of different content categories
+		Stress testing of their technology to identify weak spots
+			Ans:-Analysis of sample data sets with visualizations to understand the popularity of different content categories
