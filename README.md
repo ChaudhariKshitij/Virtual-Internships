@@ -44,5 +44,18 @@ This repository consolidates my virtual experience programs, showcasing my dedic
      - Comprehensive Reports for Category Manager:
        - Created comprehensive reports for the Category Manager, facilitating informed strategic decisions.
        - Presented data-driven commercial recommendations to enhance decision-making.
+4. **KPMG AU Data Analytics Job Simulation - Forage**
+  - Overview:This repository documents my experience and achievements in the Quantium Data Analytics Job Simulation conducted on Forage. The simulation focused on Data Analytics and Commercial Insights for the data science team.
+   - Highlights:
+     - Data Preparation and Customer Analytics:
+       - Honed skills in data preparation and customer analytics, utilizing transaction datasets for valuable insights.
+       - Cleaned and transformed raw data into a usable format for in-depth analysis.
+     - Uplift Testing on Trial Store Layouts:
+       - Extended analytical capabilities by identifying benchmark stores for uplift testing on trial store layouts.
+       - Evidence-based decision-making for optimizing store layouts and improving commercial performance.
+     - Comprehensive Reports for Category Manager:
+       - Created comprehensive reports for the Category Manager, facilitating informed strategic decisions.
+       - Presented data-driven commercial recommendations to enhance decision-making.
+
 
 Feel free to reach out for any additional information or clarification!!! 📧
